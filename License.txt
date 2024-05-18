@@ -1,0 +1,10 @@
+License Information
+
+JAVE SOURCE CODE
+All code built by Keith Mitchell
+
+Book Used During Development:
+A few sections of code are heavily customized and adapted from code provided by ChatGPT. These supports were used for solving Java Swing questions as well as support with solving angle/vector math for conal vision.
+
+ART ASSETS
+All art assets used exist under Creative Commons 4.0 Commercial Use Non Attribution Licensing.
